@@ -1,5 +1,5 @@
 {
-    "name": "kevin/travis-composer-tutorial",
+    "name": "panpan/travis-composer-tutorial",
     "type": "composer-plugin",
     "license": "MIT",
     "authors": [
