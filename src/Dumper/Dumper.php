@@ -1,6 +1,6 @@
 <?php
 
-namespace Kevin\Dumper;
+namespace Panpan\Dumper;
 
 class Dumper
 {
