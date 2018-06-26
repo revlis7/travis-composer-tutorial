@@ -1,0 +1,19 @@
+{
+    "name": "kevin/travis-composer-tutorial",
+    "type": "composer-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kevin Pan",
+            "email": "kevin@thenetcircle.com"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "^7.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Kevin\\": "src/"
+        }
+    }
+}
